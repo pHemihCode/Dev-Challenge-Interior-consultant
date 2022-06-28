@@ -267,10 +267,10 @@ button.cross span:hover::after{
         margin-right:1rem;
     }
     .designer-name{
-        margin-top:0rem;
+        margin-top:0;
     }
     .designer-name p{
-        margin-top:0.5em;
+        margin-top:0.3em;
         font-size:0.7em;
     }
     .foot p{
