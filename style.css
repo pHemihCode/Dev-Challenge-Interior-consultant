@@ -291,7 +291,7 @@ button.cross span:hover::after{
         margin-right:1rem;
     }
     .designer-name{
-        margin-top:-0.1rem;
+        margin-top:0.1rem;
         font-size:0.6rem;
     }
     .designer-name h4{
